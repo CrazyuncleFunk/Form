@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" href="..\form\contact.css">
+<link rel="stylesheet" href="..\Form\contact.css">
 <link href="https://use.fontawesome.com/releases/v5.0.7/css/all.css" rel="stylesheet">
 
 
