@@ -21,7 +21,7 @@
   <div class="container">
 
     <h1 class="contact">Get In Touch </h1>
-    <form method="post" name="myemailform" id="myemailform" action="contact.php">
+    <form method="post" name="myemailform" id="myemailform" action="working.php">
       <label for="name">Name: <input type="text" class="feild" name="name" id="name">
       <label for="email">Email: <input type="email" class="feild" name="email" id="email">
       <textarea class="textarea" name="message" id="textarea"></textarea>
