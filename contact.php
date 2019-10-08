@@ -18,6 +18,7 @@ if(isset($_POST['submit'])){
     }
 ?>
 <!DOCTYPE html>
+
 <head>
 <link rel="stylesheet" href="..\Form\contact.css">
 <link href="https://use.fontawesome.com/releases/v5.0.7/css/all.css" rel="stylesheet">
@@ -54,3 +55,4 @@ if(isset($_POST['submit'])){
 
 
 </body>
+</html>
