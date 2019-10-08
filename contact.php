@@ -44,8 +44,8 @@ if(isset($_POST['submit'])){
 
     <h1 class="contact">Get In Touch </h1>
     <form action="" method="post" name="myemailform" id="myemailform" >
-      <label for="name">Name: <input type="text" class="feild" name="first_name" id="name">
-      <label for="name">Name: <input type="text" class="feild" name="last_name" id="name">
+      <label for="name">First Name: <input type="text" class="feild" name="first_name" id="name">
+      <label for="name">Last Name: <input type="text" class="feild" name="last_name" id="name">
       <label for="email">Email: <input type="email" class="feild" name="email" id="email">
       <textarea class="textarea" name="message" id="textarea"></textarea>
       <button type="submit" class="btn">Submit</button>
